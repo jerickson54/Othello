@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\CSCI448\jerickson_A2\app_2\app.iml" filepath="C:\CSCI448\jerickson_A2\app_2\app.iml" />
+      <module fileurl="file://C:\CSCI448\jerickson_A2\app\app_2.iml" filepath="C:\CSCI448\jerickson_A2\app\app_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jerickson_A2.iml" filepath="$PROJECT_DIR$/jerickson_A2.iml" />
+    </modules>
+  </component>
+</project>

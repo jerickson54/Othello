@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Othello</string>
+    <string name = "welcome">Welcome to Othello!</string>
+    <string name = "play">Play</string>
+    <string name = "options_text">Options</string>
+    <string name = "quit">Quit</string>
+    <string name = "black_wins">Black Wins: </string>
+    <string name = "white_wins">White Wins: </string>
+    <string name = "new_game">New Game</string>
+    <string name = "go_back">Go Back</string>
+    <string name = "reset_wins">Reset Win Count</string>
+    <string name = "first_black">Black</string>
+    <string name = "first_white">White</string>
+    <string name="whoFirst">Who is first? </string>
+    <string name = "blackTurn">Black\'s turn!</string>
+    <string name = "whiteTurn">White\'s turn!</string>
+
+</resources>
